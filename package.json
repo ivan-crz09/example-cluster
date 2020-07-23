@@ -1,0 +1,24 @@
+{
+  "name": "example-cluster",
+  "version": "1.0.0",
+  "description": "A little example of you can run cluster with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-crz09/example-cluster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-crz09/example-cluster/issues"
+  },
+  "homepage": "https://github.com/ivan-crz09/example-cluster#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.5.9"
+  }
+}
